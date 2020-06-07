@@ -1,4 +1,4 @@
-node {
+node ("Slave1"){
    def mvnHome
    stage('Preparation') { 
       
